@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    text-align: center;
+    height: 100vh;           
+    margin: 0;  
+    background-color: blue;
+}
+.container {
+    margin: auto;
+    padding: 2em;
+    border-radius: 10px;
+    background-color: beige;
+}
